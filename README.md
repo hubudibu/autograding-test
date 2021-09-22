@@ -20,3 +20,7 @@ Ha szeretnéd tesztelni a kódod, futtasd le a következő parancsokat a parancs
 npm install
 npm run test
 ```
+
+Megnézheted a teszt fájlokat, hogy lásd, mi volt az elvárt eredmény, de kérlek, ne szerkeszd magukat a teszteket! Csak a `calculateAge.js` fájlba dolgozz.
+
+Sok sikert!
