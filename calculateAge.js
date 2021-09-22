@@ -1,7 +1,7 @@
-function calculateAge(currentYear, yearOfBirth) {
-    /* Ide jön a remek kódod 🍓 */
+function calculateAge (currentYear, yearOfBirth) {
+  /* Ide jön a remek kódod 🍓 */
 }
 
 module.exports = {
-    calculateAge
-};
+  calculateAge
+}
