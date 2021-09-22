@@ -1,4 +1,4 @@
-function calculateAge(width, height) {
+function calculateAge(currentYear, yearOfBirth) {
     /* Ide jön a remek kódod 🍓 */
 }
 

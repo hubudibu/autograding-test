@@ -4,7 +4,9 @@
   "description": "Hogy gyakorolhasd a mellékhatások nélküli függvények írását, illetve a return kulcsszó használatát, itt egy újabb feladat: készíts egy életkor-kalkulátort!",
   "main": "calculateAge.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testHappy": "jest happyPath.test.js",
+    "testEdgy": "jest edgeCases.test.js"
   },
   "author": "",
   "license": "ISC",
