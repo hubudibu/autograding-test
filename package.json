@@ -1,0 +1,11 @@
+{
+  "name": "autograde-test-starter",
+  "version": "1.0.0",
+  "description": "Hogy gyakorolhasd a mellékhatások nélküli függvények írását, illetve a return kulcsszó használatát, itt egy újabb feladat: készíts egy életkor-kalkulátort!",
+  "main": "calculateAge.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
